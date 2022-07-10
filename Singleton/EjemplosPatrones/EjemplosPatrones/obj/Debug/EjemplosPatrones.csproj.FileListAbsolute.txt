@@ -1,0 +1,10 @@
+D:\ABUESTAN\Documents\EXXIS DOCUMENTOS\Mios\UPS\M03 - Patrones de diseño de software\Tareas\Proyecto01\EjemplosPatrones\EjemplosPatrones\bin\Debug\EjemplosPatrones.exe.config
+D:\ABUESTAN\Documents\EXXIS DOCUMENTOS\Mios\UPS\M03 - Patrones de diseño de software\Tareas\Proyecto01\EjemplosPatrones\EjemplosPatrones\bin\Debug\EjemplosPatrones.exe
+D:\ABUESTAN\Documents\EXXIS DOCUMENTOS\Mios\UPS\M03 - Patrones de diseño de software\Tareas\Proyecto01\EjemplosPatrones\EjemplosPatrones\bin\Debug\EjemplosPatrones.pdb
+D:\ABUESTAN\Documents\EXXIS DOCUMENTOS\Mios\UPS\M03 - Patrones de diseño de software\Tareas\Proyecto01\EjemplosPatrones\EjemplosPatrones\obj\Debug\EjemplosPatrones.csprojResolveAssemblyReference.cache
+D:\ABUESTAN\Documents\EXXIS DOCUMENTOS\Mios\UPS\M03 - Patrones de diseño de software\Tareas\Proyecto01\EjemplosPatrones\EjemplosPatrones\obj\Debug\EjemplosPatrones.PatronesDesarrollo.resources
+D:\ABUESTAN\Documents\EXXIS DOCUMENTOS\Mios\UPS\M03 - Patrones de diseño de software\Tareas\Proyecto01\EjemplosPatrones\EjemplosPatrones\obj\Debug\EjemplosPatrones.PatronSingelton.resources
+D:\ABUESTAN\Documents\EXXIS DOCUMENTOS\Mios\UPS\M03 - Patrones de diseño de software\Tareas\Proyecto01\EjemplosPatrones\EjemplosPatrones\obj\Debug\EjemplosPatrones.Properties.Resources.resources
+D:\ABUESTAN\Documents\EXXIS DOCUMENTOS\Mios\UPS\M03 - Patrones de diseño de software\Tareas\Proyecto01\EjemplosPatrones\EjemplosPatrones\obj\Debug\EjemplosPatrones.csproj.GenerateResource.Cache
+D:\ABUESTAN\Documents\EXXIS DOCUMENTOS\Mios\UPS\M03 - Patrones de diseño de software\Tareas\Proyecto01\EjemplosPatrones\EjemplosPatrones\obj\Debug\EjemplosPatrones.exe
+D:\ABUESTAN\Documents\EXXIS DOCUMENTOS\Mios\UPS\M03 - Patrones de diseño de software\Tareas\Proyecto01\EjemplosPatrones\EjemplosPatrones\obj\Debug\EjemplosPatrones.pdb
