@@ -1,0 +1,13 @@
+# Patrones
++ Integrantes
+  - Cristian Moreno
+  - Andrés Buestán
+
++ Tarea singelton
+  - Proyecto con singleton + base de datos
+  - Script de base de datos
+
++ Tarea Builder
+  - Archivos Java (NetBean)
+  - PDF, lineas agregadas/modificadas
+
