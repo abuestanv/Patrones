@@ -17,11 +17,13 @@ public class AdapterMain {
         //Generic request for the two API's
         BankCreditRequest request = new BankCreditRequest();
         request.setCustomer("Oscar Blancarte");
-        request.setAmount(250000);
+        request.setAmount(25000);
+        
+        System.out.println("Solicitante: " + request.getCustomer() + "\nMonto: " + request.getAmount() + "\n");
 
         IBankAdapter xBank = new XBankCreditAdapter();
         BankCreditResponse xresponse = xBank.sendCreditRequest(request);
-        System.out.println("xBank approved > " + xresponse.isApproved() + "\n");
+        System.out.println("xBank approved > " + xresponse.isApproved() + "\n\n\n ");
 
         IBankAdapter yBank = new YBankCreditAdapter();
         BankCreditResponse yresponse = yBank.sendCreditRequest(request);
