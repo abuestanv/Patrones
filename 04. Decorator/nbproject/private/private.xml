@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/oscarblancarte/ipd/decorator/impl/message/FooterCustomerMessage.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>21</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Libro"/>
+        <group>
+            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Decorator/src/oscarblancarte/ipd/decorator/impl/message/FooterMessageCompany.java</file>
+            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Decorator/src/oscarblancarte/ipd/decorator/impl/decorators/SOAPEnvelopMessage.java</file>
+            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Decorator/src/oscarblancarte/ipd/decorator/impl/decorators/MessageDecorator.java</file>
+            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Decorator/src/oscarblancarte/ipd/decorator/impl/decorators/XMLFormatterDecorate.java</file>
+            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Decorator/src/oscarblancarte/ipd/decorator/DecoratorMain.java</file>
+            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Decorator/src/oscarblancarte/ipd/decorator/impl/message/IMessage.java</file>
+            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Decorator/src/oscarblancarte/ipd/decorator/impl/message/CustomerMessage.java</file>
+            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Decorator/src/oscarblancarte/ipd/decorator/impl/decorators/FooterMessage.java</file>
+            <file>file:/F:/maestria/patrones/Codigo%20Patrones%20Netbeans/Decorator/src/oscarblancarte/ipd/decorator/impl/message/TextMessage.java</file>
+        </group>
+    </open-files>
+</project-private>
