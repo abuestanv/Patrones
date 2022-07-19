@@ -1,10 +1,10 @@
 package oscarblancarte.ipd.decorator.impl.decorators;
 
 import java.security.Key;
-import sun.misc.BASE64Encoder;
 import javax.crypto.Cipher;
 import javax.crypto.spec.SecretKeySpec;
 import oscarblancarte.ipd.decorator.impl.message.IMessage;
+import sun.misc.BASE64Encoder;
 
 
 /**
@@ -48,7 +48,6 @@ public class EncryptMessage extends MessageDecorator {
 
     private IMessage encryptMessage() {
         try {
-            
             Key key = new SecretKeySpec(password.getBytes(), "AES");
             Cipher c = Cipher.getInstance("AES");
 
